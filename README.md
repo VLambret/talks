@@ -20,7 +20,7 @@
 
 ### Replays
 
-- Pas encore de replay disponible (mais c'est prévu)
+- [Replay Webinar Sogilis Juin 2022](https://www.youtube.com/watch?v=Ddarw3wUXQY)
 
 ### Références
 
