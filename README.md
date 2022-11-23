@@ -14,6 +14,8 @@
 - [October 2020 - Why Research on Test-Driven Development is Inconclusive?](https://arxiv.org/pdf/2007.09863.pdf)
 - TBD
 
+
+
 ## Le TDD sans commencer par les tests ?
 
 [slides](tdd_sans_commencer_par_les_tests.pdf)
@@ -29,5 +31,15 @@
 GitHub](https://softwareprocess.es/pubs/borle2017EMSE-TDD.pdf)
 - [November 2017 - Developer Testing in the IDE: Patterns, Beliefs, and Behavior](https://gousios.org/pub/developer-testing-in-IDE.pdf)
 - [May 2021 - A family of experiments on test-driven development](https://www.researchgate.net/profile/Vladimir-Mandic-2/publication/346302627_A_Family_of_Experiments_on_Test-Driven_Development/links/5fc13ead299bf104cf86bd4d/A-Family-of-Experiments-on-Test-Driven-Development.pdf?origin=publication_detail)
+
+
+
+## Quel lien entre inaction climatique et dette technique ?
+
+[slides]Quellienentreinactionclimatiqueetdettetechnique.pdf()
+
+### Références
+
+TODO
 
 
