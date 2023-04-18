@@ -8,6 +8,10 @@
 
 [slides](RegardScientifiquesurlartisanatlogiciel.pdf)
 
+### Replays
+
+- [Touraine Tech 2023](https://www.youtube.com/watch?v=BfMrXUl5rJ4)
+
 ### Références
 
 -> Voir les références des confs de 2020 et 2021 :)
